@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lyra Sample Game
 ===
 
@@ -15,3 +16,6 @@ Once installed, simply copy the content folder inside your solution directory an
 Additional Information
 ----
 See the [Unreal Engine README](../../../README.md) at the root of the repository for [Licensing](../../../README.md#licensing) and [Contributing](../../../README.md#contributions) information.
+=======
+Personal project to study unreal engine Lyra
+>>>>>>> 981f81e7ebd1d969852c074603c6533b14cb799d
