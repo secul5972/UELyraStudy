@@ -487,4 +487,7 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
+# asset
+*.uasset
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,unrealengine
